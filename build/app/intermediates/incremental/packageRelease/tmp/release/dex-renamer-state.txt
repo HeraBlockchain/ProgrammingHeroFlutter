@@ -1,0 +1,4 @@
+#Thu Jun 02 00:57:52 BDT 2022
+base.0=/Users/user/Projects/Flutter/TestProjectForJob/programming_hero_quiz/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

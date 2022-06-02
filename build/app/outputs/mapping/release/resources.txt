@@ -1,0 +1,704 @@
+android.content.res.Resources#getIdentifier present: true
+Web content present: false
+Referenced Strings:
+  $
+  $activityFilters
+  $newLayoutInfo
+  $splitPairFilters
+  $splitRule
+  $splitsWithActivity
+  $this$$receiver
+  %s.%sParcelizer
+  .Companion
+  .immediate
+  0x%08x
+  A::
+  ATOMIC
+  AccessibilityBridge
+  Active
+  ActivityFilter
+  ActivityRule
+  Array
+  B:
+  BITMAP
+  BITMAP_MASKABLE
+  BLOCKING
+  BanParcelableUsage
+  BanUncheckedReflection
+  BlockedPrivateApi
+  C::
+  CLIP_PATH
+  CLIP_RECT
+  CLIP_RRECT
+  CLOSED_EMPTY
+  COMPLETING_ALREADY
+  COMPLETING_RETRY
+  COMPLETING_WAITING_CHILDREN
+  CONDITION_FALSE
+  COPY
+  COROUTINE_SUSPENDED
+  CPU_ACQUIRED
+  CUSTOM_ACTION
+  CUT
+  CancellableContinuation
+  Cancelled
+  Cancelling
+  ClassVerificationFailure
+  CommonPool
+  CompanionObject
+  Completed
+  Completing
+  DATA
+  DECREASE
+  DEFAULT
+  DID_GAIN_ACCESSIBILITY_FOCUS
+  DID_LOSE_ACCESSIBILITY_FOCUS
+  DISMISS
+  DORMANT
+  DROP_LATEST
+  DROP_OLDEST
+  DefaultDispatcher
+  Dispatchers.Default
+  Dispatchers.IO
+  Dispatchers.Main
+  Dispatchers.Main.immediate
+  Dispatchers.Unconfined
+  EMPTY
+  EmbeddingBackend
+  EmbeddingCompat
+  EmptyCoroutineContext
+  EmptyQueue
+  FLAT
+  FOLD
+  FULL
+  Failed
+  Flow.kt
+  FlutterJNI
+  GeneratedPluginRegistrant
+  HALF_OPENED
+  HINGE
+  HORIZONTAL
+  I
+  II
+  INCREASE
+  INTERNAL
+  IconCompat
+  LAZY
+  LONG_PRESS
+  M::
+  MOVE_CURSOR_BACKWARD_BY_CHARACTER
+  MOVE_CURSOR_BACKWARD_BY_WORD
+  MOVE_CURSOR_FORWARD_BY_CHARACTER
+  MOVE_CURSOR_FORWARD_BY_WORD
+  NONE
+  NOT_IN_STACK
+  NO_DECISION
+  NO_THREAD_ELEMENTS
+  New
+  NewApi
+  NonDisposableHandle
+  OFFER_FAILED
+  OFFER_SUCCESS
+  OPACITY
+  Override
+  P10:
+  P11:
+  P12:
+  P13:
+  P14:
+  P15:
+  P16:
+  P17:
+  P18:
+  P19:
+  P20:
+  P21:
+  P22:
+  P2:
+  P3:
+  P4:
+  P5:
+  P6:
+  P7:
+  P8:
+  P9:
+  PARKING
+  PASTE
+  POLL_FAILED
+  PRIVATE
+  PROTECTED
+  PUBLIC
+  PlatformViewsController
+  PrivateApi
+  R:
+  REMOVED_TASK
+  REMOVE_FROZEN
+  RESOURCE
+  RESUMED
+  RESUME_TOKEN
+  REUSABLE_CLAIMED
+  ReceiveQueued
+  RestrictedApi
+  S:
+  SCROLL_DOWN
+  SCROLL_LEFT
+  SCROLL_RIGHT
+  SCROLL_UP
+  SEALED
+  SET_SELECTION
+  SET_TEXT
+  SHOW_ON_SCREEN
+  SUSPEND
+  SendQueued
+  SidecarCompat
+  SplitPairFilter
+  SplitPairRule
+  SplitPlaceholderRule
+  SplitRuleResolution
+  SyntheticAccessor
+  T:
+  TAP
+  TERMINATED
+  TOO_LATE_TO_CANCEL
+  TRANSFORM
+  UNDECIDED
+  UNDEFINED
+  UNDISPATCHED
+  UNEXPECTED:
+  UNKNOWN
+  URI
+  URI_MASKABLE
+  UTF8
+  V:
+  VERTICAL
+  WindowInfoTrackerCallbackAdapter.kt
+  WindowInfoTrackerImpl.kt
+  WindowServer
+  _bounds
+  _consensus
+  _cur
+  _decision
+  _delayed
+  _handled
+  _invoked
+  _isTerminated
+  _next
+  _prev
+  _queue
+  _removedRef
+  _resumed
+  _reusableCancellableContinuation
+  _state
+  acc
+  activities
+  activity
+  activity.windowManager.currentWindowM...
+  activity.windowManager.maximumWindowM...
+  activityComponent.className
+  activityComponent.packageName
+  activityFilters
+  adapter
+  addSuppressed
+  addView
+  android
+  android.os.Build
+  android.util.LongArray
+  android.view.DisplayInfo
+  androidx.window.java.layout.WindowInf...
+  androidx.window.layout.WindowInfoTrac...
+  array
+  auto
+  baseKey
+  blockingTasksInBuffer
+  boolean
+  bounds
+  buffer
+  byte
+  callback
+  callbackInterface
+  callbackWrapper
+  cause
+  char
+  chars
+  collect
+  collection
+  commonPool
+  comparator
+  completion
+  component
+  componentName
+  componentName.className
+  componentName.packageName
+  consumer
+  consumerIndex
+  context
+  continuation
+  controlState
+  coroutine
+  createAsync
+  currentDisplay
+  decorate
+  defaultDisplay
+  delimiter
+  delimiters
+  description
+  destination
+  deviceState
+  dimen
+  display
+  displayCutout
+  displayFeature.rect
+  displayFeatures
+  double
+  element
+  elements
+  embeddingCallback
+  embeddingExtension
+  emit
+  exception
+  executor
+  extensionCallback
+  f.s.j.a.a
+  f.t.d.a
+  f.t.e.a
+  feature
+  feature.rect
+  featureBounds
+  filter
+  filters
+  float
+  flutter
+  frame
+  get
+  getAppBounds
+  getBounds
+  getChildId
+  getDescriptor
+  getDisplayFeatures
+  getDisplayInfo
+  getModule
+  getNextMatch
+  getParentNodeId
+  getPoolSize
+  getPosture
+  getRealSize
+  getResId
+  getSourceNodeId
+  getSuppressed
+  getUncaughtExceptionPreHandler
+  getWindowLayoutInfo
+  inFlightTasks
+  info
+  info.displayFeatures
+  initializer
+  input
+  input_method
+  int
+  intent
+  invokeSuspend
+  it
+  it.parameterTypes
+  jClass
+  jar
+  jar:file:
+  java.lang.Boolean
+  java.lang.Byte
+  java.lang.CharSequence
+  java.lang.Character
+  java.lang.Cloneable
+  java.lang.Comparable
+  java.lang.Double
+  java.lang.Enum
+  java.lang.Float
+  java.lang.Integer
+  java.lang.Iterable
+  java.lang.Long
+  java.lang.Module
+  java.lang.Number
+  java.lang.Object
+  java.lang.Short
+  java.lang.String
+  java.lang.Throwable
+  java.lang.annotation.Annotation
+  java.lang.module.ModuleDescriptor
+  java.specification.version
+  java.util.Collection
+  java.util.Iterator
+  java.util.List
+  java.util.ListIterator
+  java.util.Map
+  java.util.Map$Entry
+  java.util.Set
+  java.util.concurrent.ForkJoinPool
+  job
+  key
+  kotlin.Annotation
+  kotlin.Any
+  kotlin.Boolean
+  kotlin.Byte
+  kotlin.Char
+  kotlin.CharSequence
+  kotlin.Cloneable
+  kotlin.Comparable
+  kotlin.Double
+  kotlin.Enum
+  kotlin.Enum.Companion
+  kotlin.Float
+  kotlin.Function
+  kotlin.Int
+  kotlin.Long
+  kotlin.Number
+  kotlin.Short
+  kotlin.String
+  kotlin.String.Companion
+  kotlin.Throwable
+  kotlin.Unit
+  kotlin.collections.Collection
+  kotlin.collections.Iterable
+  kotlin.collections.Iterator
+  kotlin.collections.List
+  kotlin.collections.ListIterator
+  kotlin.collections.Map
+  kotlin.collections.Map.Entry
+  kotlin.collections.Set
+  kotlin.coroutines.jvm.internal.BaseCo...
+  kotlin.internal.JRE7PlatformImplement...
+  kotlin.internal.JRE8PlatformImplement...
+  kotlin.jvm.functions.
+  kotlin.jvm.functions.Function
+  kotlin.jvm.internal.
+  kotlin.jvm.internal.EnumCompanionObject
+  kotlin.jvm.internal.StringCompanionOb...
+  kotlin.reflect.jvm.internal.Reflectio...
+  kotlinName
+  kotlinx.coroutines.DefaultExecutor
+  kotlinx.coroutines.DefaultExecutor.ke...
+  kotlinx.coroutines.android.AndroidDis...
+  kotlinx.coroutines.channels.defaultBu...
+  kotlinx.coroutines.debug
+  kotlinx.coroutines.default.parallelism
+  kotlinx.coroutines.fast.service.loader
+  kotlinx.coroutines.flow.AbstractFlow
+  kotlinx.coroutines.internal.StackTrac...
+  kotlinx.coroutines.internal.y
+  kotlinx.coroutines.io.parallelism
+  kotlinx.coroutines.scheduler
+  kotlinx.coroutines.scheduler.blocking...
+  kotlinx.coroutines.scheduler.core.poo...
+  kotlinx.coroutines.scheduler.keep.ali...
+  kotlinx.coroutines.scheduler.max.pool...
+  kotlinx.coroutines.scheduler.resoluti...
+  kotlinx.coroutines.stacktrace.recovery
+  kotlinx.coroutines.test.internal.Test...
+  label
+  lastScheduledTask
+  left
+  line
+  listener
+  long
+  mChildNodeIds
+  missingDelimiterValue
+  moduleName
+  name
+  navigation_bar_height
+  newConfig
+  newDeviceState
+  newIndent
+  newLayout
+  newLayoutInfo
+  null
+  oemFeature
+  oemFeature.bounds
+  off
+  on
+  onCloseHandler
+  onWindowLayoutChangeListenerAdded
+  onWindowLayoutChangeListenerRemoved
+  operation
+  other
+  overridingDecorator
+  p0
+  packageName
+  pair
+  pairs
+  parentMetrics
+  parkedWorkersStack
+  placeholderIntent
+  point
+  postfix
+  prefix
+  primaryActivity
+  primaryActivityName
+  primaryActivityName.className
+  primaryActivityName.packageName
+  primaryActivityStack
+  primaryActivityStack.activities
+  primitiveFqNames.values
+  producerIndex
+  range
+  read
+  rect
+  removeView
+  removeViewImmediate
+  rule
+  ruleComponent
+  ruleComponent.className
+  ruleComponent.packageName
+  rules
+  safeCast
+  secondaryActivity
+  secondaryActivity.intent
+  secondaryActivityIntent
+  secondaryActivityName
+  secondaryActivityName.className
+  secondaryActivityName.packageName
+  secondaryActivityStack
+  secondaryActivityStack.activities
+  separator
+  sequence
+  setDisplayFeatures
+  setPosture
+  setRemoveOnCancelPolicy
+  setSidecarCallback
+  short
+  sidecarAdapter
+  sidecarCompat
+  sidecarDeviceState
+  sidecarDisplayFeatures
+  splitInfo
+  splitInfo.primaryActivityStack
+  splitInfo.secondaryActivityStack
+  splitInfoList
+  splitPairFilters
+  splitRule
+  splitRules
+  state
+  string
+  suffix
+  this
+  this$0
+  throwableMethods
+  token
+  tracker
+  transform
+  transformer
+  truncated
+  type
+  updateViewLayout
+  value
+  view
+  void
+  window
+  windowBackend
+  windowConfiguration
+  windowMetrics
+  windowMetrics.bounds
+  windowMetricsCalculator
+  windowToken
+  workerCtl
+  write
+  x
+Marking styleable:ActivityRule:-1 used because its prefix matches string pool constant ActivityRule
+Marking id:accessibility_action_clickable_span:2131034112 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_0:2131034113 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_1:2131034114 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_10:2131034115 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_11:2131034116 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_12:2131034117 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_13:2131034118 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_14:2131034119 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_15:2131034120 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_16:2131034121 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_17:2131034122 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_18:2131034123 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_19:2131034124 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_2:2131034125 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_20:2131034126 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_21:2131034127 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_22:2131034128 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_23:2131034129 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_24:2131034130 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_25:2131034131 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_26:2131034132 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_27:2131034133 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_28:2131034134 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_29:2131034135 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_3:2131034136 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_30:2131034137 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_31:2131034138 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_4:2131034139 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_5:2131034140 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_6:2131034141 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_7:2131034142 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_8:2131034143 used because its prefix matches string pool constant acc
+Marking id:accessibility_custom_action_9:2131034144 used because its prefix matches string pool constant acc
+Marking attr:secondaryActivityName:2130771991 used because its prefix matches string pool constant secondaryActivityName
+Marking id:info:2131034158 used because its prefix matches string pool constant info
+Marking attr:primaryActivityName:2130771988 used because its prefix matches string pool constant primaryActivity
+Marking attr:secondaryActivityAction:2130771990 used because its prefix matches string pool constant secondaryActivity
+Marking attr:secondaryActivityName:2130771991 used because its prefix matches string pool constant secondaryActivity
+Marking styleable:SplitPairRule:-1 used because its prefix matches string pool constant SplitPairRule
+Marking styleable:ActivityFilter:-1 used because its prefix matches string pool constant ActivityFilter
+Marking attr:activityAction:2130771968 used because its prefix matches string pool constant activity
+Marking attr:activityName:2130771969 used because its prefix matches string pool constant activity
+Marking styleable:SplitPlaceholderRule:-1 used because its prefix matches string pool constant SplitPlaceholderRule
+Marking attr:primaryActivityName:2130771988 used because its prefix matches string pool constant primaryActivityName
+Marking color:androidx_core_ripple_material_light:2130837504 used because its prefix matches string pool constant android
+Marking color:androidx_core_secondary_text_default_material_light:2130837505 used because its prefix matches string pool constant android
+Marking id:androidx_window_activity_scope:2131034150 used because its prefix matches string pool constant android
+Marking attr:android_colorBackground:-1 used because its prefix matches string pool constant android
+Marking attr:android_color:-1 used because its prefix matches string pool constant android
+Marking attr:android_alpha:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontStyle:-1 used because its prefix matches string pool constant android
+Marking attr:android_font:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontWeight:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontVariationSettings:-1 used because its prefix matches string pool constant android
+Marking attr:android_ttcIndex:-1 used because its prefix matches string pool constant android
+Marking attr:android_startColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_endColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_type:-1 used because its prefix matches string pool constant android
+Marking attr:android_gradientRadius:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerX:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerY:-1 used because its prefix matches string pool constant android
+Marking attr:android_startX:-1 used because its prefix matches string pool constant android
+Marking attr:android_startY:-1 used because its prefix matches string pool constant android
+Marking attr:android_endX:-1 used because its prefix matches string pool constant android
+Marking attr:android_endY:-1 used because its prefix matches string pool constant android
+Marking attr:android_tileMode:-1 used because its prefix matches string pool constant android
+Marking attr:android_offset:-1 used because its prefix matches string pool constant android
+Marking attr:shortcutMatchRequired:2130771992 used because its prefix matches string pool constant short
+Marking styleable:SplitPairFilter:-1 used because its prefix matches string pool constant SplitPairFilter
+Marking id:line1:2131034160 used because its prefix matches string pool constant line
+Marking id:line3:2131034161 used because its prefix matches string pool constant line
+Resource Reference Graph:
+color:notification_action_color_filter:2130837506 => [color:androidx_core_secondary_text_default_material_light:2130837505]
+dimen:notification_media_narrow_margin:2130903054 => [dimen:notification_content_margin_start:2130903050]
+drawable:notification_action_background:2130968577 => [color:androidx_core_ripple_material_light:2130837504, dimen:compat_button_inset_vertical_material:2130903041, dimen:compat_button_inset_horizontal_material:2130903040, dimen:compat_control_corner_material:2130903044, dimen:compat_button_padding_vertical_material:2130903043, dimen:compat_button_padding_horizontal_material:2130903042]
+drawable:notification_bg:2130968578 => [drawable:notification_bg_normal_pressed:2130968583, drawable:notification_bg_normal:2130968582]
+drawable:notification_bg_low:2130968579 => [drawable:notification_bg_low_pressed:2130968581, drawable:notification_bg_low_normal:2130968580]
+drawable:notification_icon_background:2130968584 => [color:notification_icon_bg_color:2130837507]
+drawable:notification_tile_bg:2130968587 => [drawable:notify_panel_notification_icon_bg:2130968588]
+layout:notification_action:2131165185 => [style:Widget_Compat_NotificationActionContainer:2131361799, dimen:notification_action_icon_size:2130903047, style:Widget_Compat_NotificationActionText:2131361800]
+layout:notification_action_tombstone:2131165186 => [style:Widget_Compat_NotificationActionContainer:2131361799, dimen:notification_action_icon_size:2130903047, style:Widget_Compat_NotificationActionText:2131361800]
+layout:notification_template_custom_big:2131165187 => [dimen:notification_large_icon_height:2130903051, dimen:notification_large_icon_width:2130903052, layout:notification_template_icon_group:2131165188, dimen:notification_right_side_padding_top:2130903056, layout:notification_template_part_time:2131165190, layout:notification_template_part_chronometer:2131165189, style:TextAppearance_Compat_Notification_Info:2131361795, dimen:notification_main_column_padding_top:2130903053, dimen:notification_content_margin_start:2130903050]
+layout:notification_template_icon_group:2131165188 => [dimen:notification_large_icon_height:2130903051, dimen:notification_large_icon_width:2130903052, dimen:notification_big_circle_margin:2130903049, dimen:notification_right_icon_size:2130903055]
+layout:notification_template_part_chronometer:2131165189 => [style:TextAppearance_Compat_Notification_Time:2131361797]
+layout:notification_template_part_time:2131165190 => [style:TextAppearance_Compat_Notification_Time:2131361797]
+style:LaunchTheme:2131361792 => [drawable:launch_background:2130968576]
+style:NormalTheme:2131361793 => [attr:android_colorBackground:-1]
+style:TextAppearance_Compat_Notification_Info:2131361795 => [style:TextAppearance_Compat_Notification:2131361794, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:TextAppearance_Compat_Notification_Line2:2131361796 => [style:TextAppearance_Compat_Notification_Info:2131361795]
+style:TextAppearance_Compat_Notification_Time:2131361797 => [style:TextAppearance_Compat_Notification:2131361794, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:Widget_Compat_NotificationActionContainer:2131361799 => [drawable:notification_action_background:2130968577]
+style:Widget_Compat_NotificationActionText:2131361800 => [color:androidx_core_secondary_text_default_material_light:2130837505, dimen:notification_action_text_size:2130903048]
+
+The root reachable resources are:
+attr:activityAction:2130771968,
+   attr:activityName:2130771969,
+   attr:primaryActivityName:2130771988,
+   attr:secondaryActivityAction:2130771990,
+   attr:secondaryActivityName:2130771991,
+   attr:shortcutMatchRequired:2130771992,
+   color:androidx_core_ripple_material_light:2130837504,
+   color:androidx_core_secondary_text_default_material_light:2130837505,
+   id:accessibility_action_clickable_span:2131034112,
+   id:accessibility_custom_action_0:2131034113,
+   id:accessibility_custom_action_1:2131034114,
+   id:accessibility_custom_action_10:2131034115,
+   id:accessibility_custom_action_11:2131034116,
+   id:accessibility_custom_action_12:2131034117,
+   id:accessibility_custom_action_13:2131034118,
+   id:accessibility_custom_action_14:2131034119,
+   id:accessibility_custom_action_15:2131034120,
+   id:accessibility_custom_action_16:2131034121,
+   id:accessibility_custom_action_17:2131034122,
+   id:accessibility_custom_action_18:2131034123,
+   id:accessibility_custom_action_19:2131034124,
+   id:accessibility_custom_action_2:2131034125,
+   id:accessibility_custom_action_20:2131034126,
+   id:accessibility_custom_action_21:2131034127,
+   id:accessibility_custom_action_22:2131034128,
+   id:accessibility_custom_action_23:2131034129,
+   id:accessibility_custom_action_24:2131034130,
+   id:accessibility_custom_action_25:2131034131,
+   id:accessibility_custom_action_26:2131034132,
+   id:accessibility_custom_action_27:2131034133,
+   id:accessibility_custom_action_28:2131034134,
+   id:accessibility_custom_action_29:2131034135,
+   id:accessibility_custom_action_3:2131034136,
+   id:accessibility_custom_action_30:2131034137,
+   id:accessibility_custom_action_31:2131034138,
+   id:accessibility_custom_action_4:2131034139,
+   id:accessibility_custom_action_5:2131034140,
+   id:accessibility_custom_action_6:2131034141,
+   id:accessibility_custom_action_7:2131034142,
+   id:accessibility_custom_action_8:2131034143,
+   id:accessibility_custom_action_9:2131034144,
+   id:androidx_window_activity_scope:2131034150,
+   id:info:2131034158,
+   id:line1:2131034160,
+   id:line3:2131034161,
+   mipmap:ic_launcher:2131230720,
+   style:LaunchTheme:2131361792,
+   style:NormalTheme:2131361793,
+   styleable:ActivityFilter:-1,
+   styleable:ActivityRule:-1,
+   styleable:SplitPairFilter:-1,
+   styleable:SplitPairRule:-1,
+   styleable:SplitPlaceholderRule:-1,
+   attr:android_colorBackground:-1,
+   attr:android_color:-1,
+   attr:android_alpha:-1,
+   attr:android_fontStyle:-1,
+   attr:android_font:-1,
+   attr:android_fontWeight:-1,
+   attr:android_fontVariationSettings:-1,
+   attr:android_ttcIndex:-1,
+   attr:android_startColor:-1,
+   attr:android_centerColor:-1,
+   attr:android_endColor:-1,
+   attr:android_type:-1,
+   attr:android_gradientRadius:-1,
+   attr:android_centerX:-1,
+   attr:android_centerY:-1,
+   attr:android_startX:-1,
+   attr:android_startY:-1,
+   attr:android_endX:-1,
+   attr:android_endY:-1,
+   attr:android_tileMode:-1,
+   attr:android_offset:-1
+Skipped unused resource res/drawable/notification_bg.xml: 532 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_bg_low.xml: 532 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_icon_background.xml: 372 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_tile_bg.xml: 304 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-v21/notification_action_background.xml: 1180 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png: 98 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png: 107 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png: 252 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png: 247 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png: 138 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/layout/custom_dialog.xml: 612 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_action.xml: 1092 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v17/notification_action.xml: 1156 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_action_tombstone.xml: 1268 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v17/notification_action_tombstone.xml: 1332 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v16/notification_template_custom_big.xml: 3012 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v17/notification_template_custom_big.xml: 3208 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_icon_group.xml: 392 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_part_chronometer.xml: 440 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_part_time.xml: 440 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_action.xml: 1052 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_action_tombstone.xml: 1228 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_template_custom_big.xml: 2456 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_template_icon_group.xml: 988 bytes (replaced with small dummy file of size 104 bytes)
